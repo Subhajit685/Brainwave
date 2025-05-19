@@ -1,12 +1,36 @@
-# React + Vite
+# 🧠 Brainwave
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![License](https://img.shields.io/github/license/yourusername/brainwave?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-In_Development-blueviolet?style=for-the-badge)
 
-Currently, two official plugins are available:
+> A modern, responsive, and interactive React application built to push the boundaries of user experience and frontend creativity.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**Live Preview:** [Go and watch](https://brainwave-0ob2.onrender.com)
+
+---
+
+## 🧩 Features
+
+- ⚛️ Built with React 19
+- 💅 Styled with Tailwind CSS for responsive design
+- ⚡ Optimized for performance and accessibility
+- 🔧 Modular and clean project structure
+- 📱 Fully responsive design for mobile and desktop
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, Tailwind CSS
+- **Tooling:** Vite
+- **Version Control:** Git & GitHub
+
+---
+
+## 📁 Folder Structure
+
