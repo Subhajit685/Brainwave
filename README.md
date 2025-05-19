@@ -31,6 +31,3 @@
 - **Version Control:** Git & GitHub
 
 ---
-
-## 📁 Folder Structure
-
